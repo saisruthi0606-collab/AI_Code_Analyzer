@@ -9,7 +9,7 @@ This project demonstrates the combination of **DSA concepts, backend development
 
 # 📌 Features
 
-✅ Detects approximate **time complexity** (O(1), O(n), O(n²), etc.)
+✅ Detects approximate **time complexity** (O(1), O(n), O(n²), etc)
 ✅ Identifies **redundant loops** in the code
 ✅ Suggests **possible optimizations**
 ✅ Simple and clean **web interface**
